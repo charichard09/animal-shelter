@@ -1,0 +1,34 @@
+
+.animal-box {
+  border: 1px solid black;
+  background-color: red;
+}
+
+.animal-column1 {
+  width: 30%;
+  float: left;
+}
+
+.animal-column3 {
+  width: 30%;
+  margin: auto;
+  display: block;
+}
+
+.animal-column2 {
+  width: 30%;
+  float: right;
+}
+
+.center {
+  margin: auto;
+  width: 90%;
+  margin-bottom: 10px;
+  display: block;
+}
+
+.animal-box p h5 {
+  text-align: center;
+  font-style: italic
+}
+
