@@ -9,22 +9,26 @@
   float: left;
   background-color: antiquewhite;
   padding: 20px;
+  margin: 10px;
 }
 
 .animal-column3 {
   width: 30%;
-  margin: auto;
-  display: block;
+  float: left;
+  /* margin: auto;
+  display: block; */
   background-color: yellow;
   border: 1px solid black;
   padding: 20px;
+  margin: 10px;
 }
 
 .animal-column2 {
   width: 30%;
-  float: right;
+  float: left;
   background-color: rgb(243, 198, 226);
   padding: 20px;
+  margin: 10px;
 }
 
 .center {
@@ -40,5 +44,8 @@
   font-style: italic
 }
 
+.color {
+  background: red;
+}
 
 
