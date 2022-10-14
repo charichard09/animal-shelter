@@ -1,6 +1,8 @@
+* {
+  box-sizing:border-box;
+}
 
 .animal-box {
-  /* border: 3px solid black; */
   font-size: 20px;
   overflow: hidden;
 }
@@ -16,8 +18,6 @@
 .animal-column3 {
   width: 30%;
   float: left;
-  /* margin: auto;
-  display: block; */
   background-color: yellow;
   border: 1px solid black;
   padding: 20px;
@@ -54,7 +54,10 @@
 }
 
 .about-us {
-  margin-top: 500px;
+  margin-top: 20px;
+  width: 100%;
+  height: auto;
+  text-align: center;
 }
 
 
