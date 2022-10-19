@@ -12,7 +12,7 @@ ul {
 }
 
 .animal-column1 {
-  width: 30%;
+  width: 25%;
   float: left;
   background-color: antiquewhite;
   padding: 20px;
@@ -20,7 +20,7 @@ ul {
 }
 
 .animal-column3 {
-  width: 30%;
+  width: 25%;
   float: left;
   background-color: yellow;
   border: 1px solid black;
@@ -29,7 +29,7 @@ ul {
 }
 
 .animal-column2 {
-  width: 30%;
+  width: 25%;
   float: left;
   background-color: rgb(243, 198, 226);
   padding: 20px;
@@ -68,4 +68,9 @@ span {
   text-decoration: underline;
 }
 
+.button-box {
+  width: 10%;
+  float: left;
+  background-color: aqua;
+}
 
